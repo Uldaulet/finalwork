@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x:hidden;
+    
+}
+header{
+    background-color: #775ba3;
+    color: white;
+    font-size: 14px;
+}
+.nav-link{
+    color: white!important;
+}
+.navbar-nav{
+    margin-top: 30px;
+}
+.user{
+    margin-left: 510px;
+}
+.la,.post-heading,.notre-heading,.port{
+   font-size: 40px;
+   color: #7e63a7 ;
+}
+.liberte{
+    margin: 70px;
+}
+.la-text{
+    font-size: 23px;
+    color: #4b3f55 ;
+}
+.post{
+    background-color: rgb(244, 244, 244) ;
+    padding: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #54865d;
+    border-top: 1px solid #54865d;
+}
+.post-row{
+    padding: 30px;
+}
+.post-heading{
+    padding: 30px;
+}
+.notre-heading{
+    padding: 50px;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #4a3f5b;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 35%;
+  }
+
+  .circle a{
+    display: inline-block;
+  }
+
+  .circle .img{
+    max-width: 100%;
+    align-items: center;
+  }
+.icon1,.icon3,.icon2{
+   margin-top: 50px;
+}
+
+.btn{
+    border-radius: 0 !important;
+}
+.card-title{
+    border-top: 5px solid rgb(107, 223, 107);
+    border-bottom: 5px solid rgb(107, 223, 107);
+}
+.card-body{
+    padding: 0 1em 1em!important;
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+.text-foot{
+    margin: 40px 0 40px;
+}
+.btn-f{
+    background-color: #3b5998 ;
+    width: 100%;
+}
+.btn-g{
+    background-color: #d14333 ;
+    width: 100%;
+}
+.btn-tw{
+    background-color: #00aced  ;
+    width: 100%;
+}
+.btn-dr{
+    background-color: #ea4c88  ;
+    width: 100%;
+}
+.btn-yt{
+    background-color: #c70c0c ;
+    width: 100%;
+}
+.ava{
+    max-width: auto;
+    height: 370px;
+}
+.port{
+    margin: 2%;
+}
+.portfolio{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card-text{
+    font-size: 13px;
+    color: #4b3f55 ;
+
+}
+
+.photo-1,.photo-2,.photo-3{
+    font-size: 15px;
+    color: #91c5a9 ;
+}
+.photo-cards{
+    --bs-gutter-x: 0 !important;
+}
+footer{
+    background-color: #54865d ;
+    font-size: 14px;
+    color: white;
+    height: 100px;
+}
+
